@@ -15,4 +15,5 @@
 
 # Repository configuration
 ---
-default_repository_root: https://download.run.pivotal.io
+#default_repository_root: https://download.run.pivotal.io
+default_repository_root: http://sourceforge.net/projects/jboss/files/JBoss/JBoss-4.0.1SP1/jboss-4.0.1sp1.tar.gz/download
